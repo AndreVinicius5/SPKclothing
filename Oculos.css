@@ -5,6 +5,7 @@ body {
   font-style: normal;
   background-color: 171C1A;
 }
+
 .barrapesquisa {
   position: absolute;
   width: 100%;
@@ -12,6 +13,7 @@ body {
   background: #1c1c1c;
   border-radius: 5px;
 }
+
 .logo img {
   position: absolute;
   width: 221px;
@@ -19,10 +21,12 @@ body {
   left: 180px;
   top: 5px;
 }
+
 .formulario input {
   width: 40px;
   height: 10px;
 }
+
 .campodigitar input {
   position: relative;
   width: 462px;
@@ -36,6 +40,7 @@ body {
   text-decoration: none;
   font-size: 20px;
 }
+
 .carrinho1 {
   position: absolute;
   width: 462px;
@@ -43,6 +48,7 @@ body {
   left: -80px;
   top: 5px;
 }
+
 .carta {
   position: absolute;
   width: 50px;
@@ -50,6 +56,7 @@ body {
   left: 1091px;
   top: 10px;
 }
+
 .loguin a {
   position: absolute;
   width: 50px;
@@ -65,6 +72,7 @@ body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
+
 a,
 h1,
 h2,
@@ -75,6 +83,7 @@ ul {
   border: 0;
   text-decoration: none;
 }
+
 .loguin a {
   position: absolute;
   width: 50px;
@@ -90,6 +99,7 @@ ul {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
+
 h1 {
   position: absolute;
   color: #fff;
@@ -97,6 +107,7 @@ h1 {
   top: 100px;
   padding: 25px;
 }
+
 header h1 {
   display: grid;
   position: absolute;
@@ -111,12 +122,14 @@ header h1 {
   border-radius: 5px;
   color: #fff;
 }
+
 header img {
   position: absolute;
   left: 255px;
   top: 100px;
   border: 3px solid #00f99e;
 }
+
 .itemscategorias img {
   border: 5px solid #00f99e;
   width: 350px;
@@ -124,23 +137,28 @@ header img {
   object-fit: cover;
   border-radius: 5px;
 }
+
 .itemspromocoes h3 {
   position: relative;
   top: -15px;
 }
+
 .itemspromocoes h3 {
   position: relative;
   top: -2px;
 }
+
 .itemspromocoes h2 {
   border: 22px solid #00f99e;
   height: 100px;
   width: 350px;
 }
+
 .nomeitem {
   text-align: right;
   position: relative;
 }
+
 .itemscategorias {
   position: absolute;
   display: grid;
@@ -158,6 +176,7 @@ header img {
   padding: 0;
   justify-content: center;
 }
+
 .itemspromocoes a {
   justify-content: center;
   position: relative;
@@ -172,9 +191,11 @@ header img {
   color: #00f99e;
   justify-content: center;
 }
+
 .itemspromocoes h2 {
   color: #00f99e;
 }
+
 .botaocomprar {
   display: grid;
   position: absolute;
@@ -185,13 +206,16 @@ header img {
   text-align: center;
   justify-content: center;
 }
+
 .botaocomprar h3 {
   position: absolute;
   left: 180px;
 }
+
 .botaocomprar h3 {
   position: relative;
 }
+
 .botaocomprar a {
   justify-content: center;
   position: relative;
@@ -209,16 +233,19 @@ header img {
   margin-top: 30px;
   justify-content: center;
 }
+
 .botaocomprar a:hover {
   background-color: #00f99e;
   border: 10px solid #00f99e;
   color: #1c1c1c;
 }
+
 .botaocomprar2 a:hover {
   background-color: #00f99e;
   border: 10px solid #00f99e;
   color: #1c1c1c;
 }
+
 .botaocomprar2 {
   display: grid;
   position: absolute;
@@ -230,13 +257,16 @@ header img {
   gap: 443px 20px;
   justify-content: center;
 }
+
 .botaocomprar2 h3 {
   position: absolute;
   left: 180px;
 }
+
 .botaocomprar2 h3 {
   position: relative;
 }
+
 .botaocomprar2 a {
   justify-content: center;
   position: relative;
@@ -253,11 +283,13 @@ header img {
   color: #00f99e;
   margin-top: 30px;
 }
+
 .VejaMais {
   display: flex;
   gap: 20px;
   position: absolute;
 }
+
 .VejaMais a {
   gap: 20px;
   display: flex;
@@ -281,15 +313,18 @@ header img {
   border-radius: 5px;
   opacity: 0;
 }
+
 .VejaMais a:hover {
   opacity: 0.8;
   transition: 0.7s;
 }
+
 .VejaMais2 {
   display: flex;
   gap: 20px;
   position: absolute;
 }
+
 .VejaMais2 a {
   gap: 20px;
   display: flex;
@@ -313,15 +348,18 @@ header img {
   border-radius: 5px;
   opacity: 0;
 }
+
 .VejaMais2 a:hover {
   opacity: 0.8;
   transition: 0.7s;
 }
+
 .VejaMais3 {
   display: flex;
   gap: 20px;
   position: absolute;
 }
+
 .VejaMais3 a {
   gap: 20px;
   display: flex;
@@ -345,15 +383,18 @@ header img {
   border-radius: 5px;
   opacity: 0;
 }
+
 .VejaMais3 a:hover {
   opacity: 0.8;
   transition: 0.7s;
 }
+
 .VejaMais4 {
   display: flex;
   gap: 20px;
   position: absolute;
 }
+
 .VejaMais4 a {
   gap: 20px;
   display: flex;
@@ -377,15 +418,18 @@ header img {
   border-radius: 5px;
   opacity: 0;
 }
+
 .VejaMais4 a:hover {
   opacity: 0.8;
   transition: 0.7s;
 }
+
 .VejaMais5 {
   display: flex;
   gap: 20px;
   position: absolute;
 }
+
 .VejaMais5 a {
   gap: 20px;
   display: flex;
@@ -409,15 +453,18 @@ header img {
   border-radius: 5px;
   opacity: 0;
 }
+
 .VejaMais5 a:hover {
   opacity: 0.8;
   transition: 0.7s;
 }
+
 .VejaMais6 {
   display: flex;
   gap: 20px;
   position: absolute;
 }
+
 .VejaMais6 a {
   gap: 20px;
   display: flex;
@@ -441,15 +488,18 @@ header img {
   border-radius: 5px;
   opacity: 0;
 }
+
 .VejaMais6 a:hover {
   opacity: 0.8;
   transition: 0.7s;
 }
+
 .VejaMais7 {
   display: flex;
   gap: 20px;
   position: absolute;
 }
+
 .VejaMais7 a {
   gap: 20px;
   display: flex;
@@ -473,15 +523,18 @@ header img {
   border-radius: 5px;
   opacity: 0;
 }
+
 .VejaMais7 a:hover {
   opacity: 0.8;
   transition: 0.7s;
 }
+
 .VejaMais8 {
   display: flex;
   gap: 20px;
   position: absolute;
 }
+
 .VejaMais8 a {
   gap: 20px;
   display: flex;
@@ -505,15 +558,18 @@ header img {
   border-radius: 5px;
   opacity: 0;
 }
+
 .VejaMais8 a:hover {
   opacity: 0.8;
   transition: 0.7s;
 }
+
 .VejaMais9 {
   display: flex;
   gap: 20px;
   position: absolute;
 }
+
 .VejaMais9 a {
   gap: 20px;
   display: flex;
@@ -537,10 +593,12 @@ header img {
   border-radius: 5px;
   opacity: 0;
 }
+
 .VejaMais9 a:hover {
   opacity: 0.8;
   transition: 0.7s;
 }
+
 .rodape {
   position: absolute;
   background: #1c1c1c;
@@ -550,49 +608,60 @@ header img {
   box-sizing: border-box;
   top: 2500px;
 }
+
 @media screen and (max-width: 420px) {
   ::-webkit-scrollbar {
     display: none;
   }
+
   .barrapesquisa {
     width: 1000px;
     left: 0;
   }
+
   .logo img {
     left: -5px;
     width: 25%;
   }
+
   .campodigitar input {
     left: 80px;
     width: 214px;
   }
+
   .carrinho {
     display: none;
   }
+
   .carta {
     display: none;
   }
+
   header img {
     left: 0;
     height: 360px;
     margin: 0;
     display: none;
   }
+
   header h1 {
     display: none;
     font-size: 30px;
     text-align: left;
     top: 100px;
   }
+
   .itemscategorias {
     grid-template-columns: 1fr;
     left: 0;
     top: 100px;
   }
+
   .botaocomprar2 {
     grid-template-columns: 1fr;
     left: 0;
   }
+
   .botaocomprar2 a {
     grid-template-columns: 1fr;
   }
